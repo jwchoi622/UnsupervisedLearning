@@ -4,4 +4,6 @@
 8/23 - Anomaly Detection
 <br>
 8/25 Collaborative Filtering Recommendation System
+<br>
+8/29 - Content based filtering
 
